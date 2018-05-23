@@ -1,5 +1,5 @@
 # AtCoder
-プログラミングコンテストサイト「[AtCoder](https://beta.atcoder.jp/?lang=ja)」で提出したコード置いています．
+プログラミングコンテストサイト「[AtCoder](https://beta.atcoder.jp/?lang=ja)」で提出したコードを置いています．
 
 ## Links
 * AtCoder:[temp176](https://beta.atcoder.jp/users/temp176)
