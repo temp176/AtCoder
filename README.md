@@ -4,4 +4,4 @@
 ## Links
 * AtCoder:[temp176](https://beta.atcoder.jp/users/temp176)
 * AtCoder Problems:[temp176](https://kenkoooo.com/atcoder/?user=temp176&kind=user)
-* AtCoder Scores:[temp176](https://rsk0315.github.io/AtCoderScores/index.html?user=temp176)
+* AtCoder Scores:[temp176](https://atcoder-scores.herokuapp.com/index.html?user=temp176)
